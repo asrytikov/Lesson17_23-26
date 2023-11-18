@@ -1,2 +1,5 @@
-package p6;public interface Expr {
+package p6;
+
+public interface Expr {
+    boolean isEq(int n);
 }

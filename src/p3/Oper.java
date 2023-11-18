@@ -1,2 +1,5 @@
-package p3;public interface Oper {
+package p3;
+
+public interface Oper {
+        int calc();
 }
